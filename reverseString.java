@@ -33,7 +33,7 @@ class reverseString{
     }
 
     public static void main(String[] args){
-        String s = "  The sky is blue  ";
+        String s = "  Java is easy programming language";
         System.out.println(reverseString(s));
     }
 }
